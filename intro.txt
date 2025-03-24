@@ -1,0 +1,3 @@
+Name: Orly Pantaleon
+Course: Bachelor of Science in Information Technology
+Interests in programming: Python and Cloud Computing
